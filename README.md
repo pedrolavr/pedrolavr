@@ -49,9 +49,9 @@
 </div>
 
 
-<div align="left">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolavr&layout=compact)
+<div>
+<a href="https://github.com/pedrolavr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolavr&layout=compact&langs_count=7&theme=shadow_green"/>
 </div>
 
 ## Portfolio (don't take it seriously 😛)
