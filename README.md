@@ -49,6 +49,11 @@
 </div>
 
 
+<div align="left">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
+
 ## Portfolio (don't take it seriously 😛)
   - Game project Dark Ignition
   - Meteorological API
