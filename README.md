@@ -44,15 +44,16 @@
 </div>
 
 <div align="right">
+<a href="https://github.com/pedrolavr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolavr&layout=compact&langs_count=7&theme=shadow_green"/>
+</div>
+  
+<div align="left">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrolavr&theme=shadow-green&border_radius=0.8&card_width=465)](https://git.io/streak-stats)
 </div>
 
 
-<div>
-<a href="https://github.com/pedrolavr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolavr&layout=compact&langs_count=7&theme=shadow_green"/>
-</div>
 
 ## Portfolio (don't take it seriously 😛)
   - Game project Dark Ignition
