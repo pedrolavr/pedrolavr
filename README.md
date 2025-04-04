@@ -5,9 +5,9 @@
   
 - Looking for "General solutions for everyday problems"
  
-- 📚 Currently getting ready to take SAT
+- 📚 Currently preparing to get into the college
  
-- 🎯 My prospect is to work in a multinational as a computer scientist
+- 🎯 My aspiration is to work as a computer scientist in a leading multinational company, with the primary goal of advancing technology in ways that empower and uplift society as a whole.
   
 - 🎮 Leader in the Dark Ignition game project
 
