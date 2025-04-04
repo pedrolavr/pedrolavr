@@ -7,7 +7,7 @@
  
 - 📚 Currently preparing to get into the college
  
-- 🎯 My aspiration is to work as a computer scientist in a leading multinational company, with the primary goal of advancing technology in ways that empower and uplift society as a whole.
+- 🎯 My aspiration is to work as a computer scientist in a multinational company, aiming to contribute to the responsible advancement of technology that benefits and empowers society.
   
 - 🎮 Leader in the Dark Ignition game project
 
