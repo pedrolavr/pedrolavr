@@ -55,11 +55,11 @@
 
 
 
-## Portfolio (don't take it seriously 😛)
+## Portfolio
   - Game project Dark Ignition
   - Meteorological API
-  - Modification of a remote control cart, increasing power, torque and performance
-  - Video Editing
+  - Turbo Remote Car Project: Using Arduino, the idea is some modifications of a remote control cart, increasing power, torque and performance
+  - Video Editing utilizing After Effects and Premiere Pro
   - Commercial banners design
 
 
